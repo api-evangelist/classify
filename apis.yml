@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://classify-web.herokuapp.com/#/api
 common:
+  - type: DomainSecurity
+    url: security/classify-domain-security.yml
   - type: Website
     url: https://classify-web.herokuapp.com/#/api
   - type: PublicAPIsListing
