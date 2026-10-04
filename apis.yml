@@ -39,7 +39,6 @@ apis:
   - name: Classify
     description: "Encrypting & decrypting text messages"
     humanURL: https://classify-web.herokuapp.com/#/api
-    baseURL: https://classify-web.herokuapp.com/#/api
     tags:
       - Security
     properties:
