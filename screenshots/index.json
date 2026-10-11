@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "classify",
+    "captured_at": "2026-10-11T184020",
+    "source_url": "https://classify-web.herokuapp.com/#/api",
+    "source_type": "Website",
+    "file": "classify-2026-10-11T184020.png",
+    "bytes": 212617,
+    "capture": "playwright-local"
+  }
+]
